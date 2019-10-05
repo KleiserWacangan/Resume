@@ -1,9 +1,58 @@
 <!doctype html>
 <html>
-<head></head>
-<body>
-<header>
-<h1>Kleiser H. Wacangan</h1>
-</header>
-</body>
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Kleiser H. Wacangan</h2>
+  <hr />
+  <br>
+  <section>
+    <h3>About Me<h3>
+      <ul>
+        <li>Age: 28</li>
+        <li>Gender: Male</li>
+        <li>Religion: Catholic</li>
+  <section>
+  <br>
+  <h3>Interests</h3>
+  <ul>
+    <li>Drawing</li>
+    <li>Photography</li>
+    <li>Design</li>
+    <li>Programming</li>
+    <li>Computer Science</li>
+  </ul>
+  </section>
+      <br>
+    <section>
+  <h3>Skills</h3>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+  </ul>
+    </section>
+    <br>
+      <section>
+  <h3>Education</h3>
+  <ul>
+    <a href="http://www.uc-bcf.edu.ph/">
+      <li>University of the Cordilleras: Bachelors Degree On Web designing</li>
+    </a>
+    <!--Link-->
+      <li>Namatec National High School</li>
+    <li>Pingad National Senior High School: with NCII on ICT
+  </ul>
+    </section>
+      <br>
+    <section>
+  <h3>Experience</h3>
+  <ul>
+    <li>Web Designer Intern at Hobby Hunter inc.</li>
+    <li>Teach web design for 1 year</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Kleiser</h2></div>
 </html>
