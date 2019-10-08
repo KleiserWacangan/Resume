@@ -1,58 +1,171 @@
-<!doctype html>
-<html>
-<div id="header"></div>
-<div class="left"></div>
-<div class="stuff">
-  <br><br>
-  <h1>Resume</h1>
-  <h2>Kleiser H. Wacangan</h2>
-  <hr />
-  <br>
-  <section>
-    <h3>About Me<h3>
-      <ul>
-        <li>Age: 28</li>
-        <li>Gender: Male</li>
-        <li>Religion: Catholic</li>
-  <section>
-  <br>
-  <h3>Interests</h3>
-  <ul>
-    <li>Drawing</li>
-    <li>Photography</li>
-    <li>Design</li>
-    <li>Programming</li>
-    <li>Computer Science</li>
-  </ul>
-  </section>
-      <br>
-    <section>
-  <h3>Skills</h3>
-  <ul>
-    <li>Web Design with HTML & CSS</li>
-  </ul>
-    </section>
-    <br>
-      <section>
-  <h3>Education</h3>
-  <ul>
-    <a href="http://www.uc-bcf.edu.ph/">
-      <li>University of the Cordilleras: Bachelors Degree On Web designing</li>
-    </a>
-    <!--Link-->
-      <li>Namatec National High School</li>
-    <li>Pingad National Senior High School: with NCII on ICT
-  </ul>
-    </section>
-      <br>
-    <section>
-  <h3>Experience</h3>
-  <ul>
-    <li>Web Designer Intern at Hobby Hunter inc.</li>
-    <li>Teach web design for 1 year</li>
-  </ul>
-</div>
-<div class="right"></div>
-<div id="footer">
-  <h2 id="name">Kleiser</h2></div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Resume | First Last</title>
+	<meta name="robots" content="noindex, nofollow" />
+	<style type="text/css" media="all">
+
+
+		html{
+			background-color:#EEE;
+			padding:0 1em;
+			}
+		body {
+			background-color:#FFF;
+			font-family:"Trebuchet MS", Helvetica, Arial;
+			padding:1em;
+			border:solid #AAA;
+			border-width:1px 3px 3px 1px;
+			margin:1em auto;
+			max-width: 50em;
+			}
+		#address{
+			height:5em;
+			width:47em;
+			margin:1em 0 1em 0;
+			}
+		#address div{
+			width:13em;
+			float:left;
+			padding:0 .5em 0 1.5em;
+			border-left:1px solid #CCC;
+			}
+		#address div#first{
+			border-left:none;
+			}
+		#address h3{
+			border-bottom: none;
+			margin-top: 0;
+			}	
+		.date {
+			float:right;
+			font-size:.9em;
+			margin-top:.4em;
+			text-align:right;
+			}
+		
+	
+		
+		h1{
+			font-size:1.5em;
+			font-family: Helvetica, Verdana, Arial, sans-serif;
+			}
+		h2 {
+			clear:both;
+			font-size: 1.4em;
+			font-weight:bold;
+			margin-top:2em;
+			font-variant: small-caps;
+			padding-left:.25em;
+			background-color:#EEE;
+			border-bottom: 1px solid #999;
+			letter-spacing: .06em;
+			}
+		h3 {margin: 1em 0 0 0;}
+	</style>
+	<style type="text/css" media="print">
+		body {
+			background-color:#FFF;
+			border-width:0 0 0 0;
+			margin:0;
+			width:100%
+			}
+	</style>
+
+
+
+</head>
+
+<body>
+	<h1>Kleiser H.Wacangan</h1>
+	
+	<h2>Career Summary</h2>
+	<p>	An energetic and imaginative young web developer who is able to work alongside other talented IT professionals in creating websites to the very highest standards. Kleiser has a high awareness of industry issues and trends, particularly in regard to accessibility, usability, emerging technologies, and open source CMS. He is an ambitious type who wants to get noticed, and has the drive and massive energy needed to really make a difference to a project. Right now he is looking for an entry level position with an exciting  company that wants to attract talented people. 
+	</p>
+	
+	
+	<h2>KEY SKILLS</h2>
+	<h4>KNOWLEDGE OF</h4>
+	<ul>
+		<li>Website design</li>
+		<li>Mobile devices</li>
+		<li>Database solution</li>
+		<li>Trouble shooting </li>
+
+	<h4>KEY COMPETENCIES</h4>
+	<ul>
+		<li>Providing innovative new ideas and solutions to problems. </li>
+		<li>Able to juggle priorities and multiple projects.</li>
+		<li>Learning new technologies and keeping abreast of markets developments. </li>
+		<li>Having creativity and imagination.</li>
+		<li>Adaptable and able to pick up new techniques.</li>
+		<li>Thorough and precise. </li>
+	</ul>
+
+
+	<h4>PERSONAL SKILLS</h4>
+	<ul>
+		<li>Handling criticism well and learning from it.</li>
+		<li>Able to work in a multi-disciplined team that includes designers, developers, consultants, and Project Managers.</li>
+		<li>A keen approach to learning.</li>
+		<li>Working to short lead times. </li>
+	</ul>
+	
+
+	<h2>ACHIEVEMENTS </h2>
+	<ul>
+		<li>National certificate in IT</li>
+		<li>Passed course on object-oriented design</li>
+		<li>Completed course in Linux operating systems.</li>
+		<li>Programmed code for mass data conversions.</li>
+	</ul>
+	
+	
+	<h2>Education</h2>
+	<span class="date">2018 &raquo; 2022</span>
+	<ul>
+		<li>Candidate for Bachelor of Information Technology (Present).<br>
+			Web Technology Major, <br>
+			University of Cordilleras, <br>
+			Governer Pack Rd, Baguio City.
+	</li>
+    <h2>Work Experience</h2>
+    <span class="date">2022 &raquo; 2024</span>
+    <ul>
+    	<p>Web Design Consultancy </p>
+    	<h3>WEB DEVELOPER 
+    		<p>Responsible for working closely with the product management team to organise the web presence of clients, and to develop rich user interfaces for them. </p>
+    	</h3>
+    	<li>Designing, coding and testing of Java Applications.</li>
+    	<li>Keyword research and competitor analysis.</li>
+    	<li>Proofreading and copyediting content for websites.</li>
+        <li>Monitoring website and platform performance.</li>
+    	<li>Writing up status reports for senior managers.</li>
+    	<li>Developing enterprise CMS systems.</li>
+    	<li>Overseeing the hosting environment for websites.</li>
+    	<li>Specifying system changes that meet a clients requirements.</li>
+    	<li>Meeting with customers and end users to analyse their needs.</li>
+    	<li>Supporting complex project management applications.</li> 
+ 
+
+	<section>
+	<div id="address">
+		<div id="first">
+			<h3>CONTACT</h3>
+			Tel no. 422-0123 <br />
+			<a href="kleiserwacangan@gmail.com">kleiserwacangan@gmail.com</a><br />
+			
+		</div>
+		<div>
+			<h3>Current Address</h3>
+			#18 Upper P.Burgos,<br>
+			Baguio City, Benguet<br>
+			<br>
+		</div>
+	</div>
+	</section>
+</body>
+
+
 </html>
